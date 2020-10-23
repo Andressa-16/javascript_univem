@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='pt-br'> 
     <head>
-        <title>Contadora de Vogais</title>
+        <title>Contador de Vogais</title>
         <meta charset="utf-8"/>
         <script type="text/javascript" src="02-Back.js"></script>
     </head>
