@@ -1,0 +1,17 @@
+
+{
+    "error": {
+       {
+             "field": "Time",
+             "Menssage": "O time não corresponde."
+        },
+        {
+             "field": "Camisa do time",
+             "Menssage": "A imagem não define, não tem qualidade."
+        },
+        {
+             "field":"Descrissão.",
+             "Menssage": "A descrissão não define"
+        }
+    }
+}
